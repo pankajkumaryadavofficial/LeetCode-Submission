@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0189-rotate-array) |
 | [1748-sum-of-unique-elements](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/1748-sum-of-unique-elements) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
