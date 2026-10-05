@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0704-binary-search) |
 | [1748-sum-of-unique-elements](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/1748-sum-of-unique-elements) |
@@ -26,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
