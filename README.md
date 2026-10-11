@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [1748-sum-of-unique-elements](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pankajkumaryadavofficial/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
